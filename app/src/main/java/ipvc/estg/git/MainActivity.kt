@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //adicionei o metdo A
+
+        //add method B
     }
 }
